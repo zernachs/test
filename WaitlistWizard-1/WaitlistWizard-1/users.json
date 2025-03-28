@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "username": "demo",
+    "password": "$2a$10$9Xn7U9XW.nUvJ9LM1aZBYeZsT3VoNmUWFJ3uVDm5TxgWK8BxsWYfO",
+    "email": "demo@example.com",
+    "createdAt": "2025-03-28T17:57:56.072Z"
+  },
+  {
+    "id": 2,
+    "username": "folovweb",
+    "password": "$2b$10$prpzUHIsNJvAcUMX8cf/A.W00n0PYUNziXWbidp.f/MUFMNTQ.M2y",
+    "email": "igormifilenko@gmail.com",
+    "createdAt": "2025-03-28T17:58:28.326Z"
+  },
+  {
+    "id": 1,
+    "username": "demo",
+    "password": "$2a$10$9Xn7U9XW.nUvJ9LM1aZBYeZsT3VoNmUWFJ3uVDm5TxgWK8BxsWYfO",
+    "email": "demo@example.com",
+    "createdAt": "2025-03-28T18:03:26.719Z"
+  },
+  {
+    "id": 2,
+    "username": "folovweb",
+    "password": "$2b$10$3anzFJpxap.8zbqHMzE8Cudffvh5KH8lfUUhhXU0CBMMMSYHDfidi",
+    "email": "igormifilenko@gmail.com",
+    "createdAt": "2025-03-28T18:04:41.040Z"
+  },
+  {
+    "id": 1,
+    "username": "demo",
+    "password": "$2a$10$9Xn7U9XW.nUvJ9LM1aZBYeZsT3VoNmUWFJ3uVDm5TxgWK8BxsWYfO",
+    "email": "demo@example.com",
+    "createdAt": "2025-03-28T18:12:06.229Z"
+  },
+  {
+    "id": 1,
+    "username": "demo",
+    "password": "$2a$10$9Xn7U9XW.nUvJ9LM1aZBYeZsT3VoNmUWFJ3uVDm5TxgWK8BxsWYfO",
+    "email": "demo@example.com",
+    "createdAt": "2025-03-28T18:24:28.979Z"
+  },
+  {
+    "id": 1,
+    "username": "demo",
+    "password": "$2a$10$9Xn7U9XW.nUvJ9LM1aZBYeZsT3VoNmUWFJ3uVDm5TxgWK8BxsWYfO",
+    "email": "demo@example.com",
+    "createdAt": "2025-03-28T18:24:45.196Z"
+  },
+  {
+    "id": 2,
+    "username": "folovweb",
+    "password": "$2b$10$Cq8nsRDxFsnxyH2On58Ndu46XBstEwkQ05QKvV2IeuxDvf/Pl1Mu6",
+    "email": "igormifilenko@gmail.com",
+    "createdAt": "2025-03-28T18:28:24.648Z"
+  },
+  {
+    "id": 1,
+    "username": "demo",
+    "password": "$2a$10$9Xn7U9XW.nUvJ9LM1aZBYeZsT3VoNmUWFJ3uVDm5TxgWK8BxsWYfO",
+    "email": "demo@example.com",
+    "createdAt": "2025-03-28T18:30:12.310Z"
+  },
+  {
+    "id": 2,
+    "username": "folovweb",
+    "password": "$2b$10$4K2CHGdwkxPuVNZfZsFp2uIRFi3IxOnMOilns5Y3cBZ1Tt5PpZwC6",
+    "email": "igormifilenko@gmail.com",
+    "createdAt": "2025-03-28T18:30:55.951Z"
+  },
+  {
+    "id": 1,
+    "username": "demo",
+    "password": "$2a$10$9Xn7U9XW.nUvJ9LM1aZBYeZsT3VoNmUWFJ3uVDm5TxgWK8BxsWYfO",
+    "email": "demo@example.com",
+    "createdAt": "2025-03-28T18:32:33.433Z"
+  }
+]
